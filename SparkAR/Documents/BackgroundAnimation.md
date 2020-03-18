@@ -4,6 +4,6 @@
 
 ## Add image into Assets tree
 
-![Add image asset as background](./SparkAR/Documents/images\BackgroundAnimation/add_asset.png "add asset")
+![Add image asset as background](./SparkAR/Documents/images/BackgroundAnimation/add_asset.png "add asset")
 
 
