@@ -4,5 +4,4 @@
 
 ## Add image into Assets tree
 
-![Add image asset as background](./images/BackgroundAnimation/add_asset.png "add asset")
-
+![Add image asset as background](./images/BackgroundAnimation/add_asset.png  | height=300 "add asset")
